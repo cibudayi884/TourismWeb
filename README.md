@@ -52,10 +52,4 @@
 	在 webpack.base.conf.js 修改别名 'styles': resolve('src/assets/styles') 
 	在相应的目录直接用 @import '~styles/varibles.styl'来引入需要的文件
 	
-## 成果展示
-![avatar](./static/1.png)
-![avatar](./static/2.png)
-![avatar](./static/3.png)
-![avatar](./static/4.png)
-![avatar](./static/5.png)
-![avatar](./static/6.png)
+
